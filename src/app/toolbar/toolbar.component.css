@@ -1,0 +1,21 @@
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.routes {
+  margin-left: 20px;
+}
+
+.routes > span {
+  margin-right: 10px;
+}
+
+.routes > span:hover {
+  opacity: 0.6;
+  color: aqua;
+  cursor: pointer;
+}
